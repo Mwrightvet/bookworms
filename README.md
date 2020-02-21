@@ -17,7 +17,7 @@ Team Members:
 * Shazee - Transform 
 * Melissa - Load 
 
-### Keep in mind that we only have a few days to work on this!
+### Keep in mind that we only had a few days to work on this!
 
 * Repo for Team: https://github.com/Mwrightvet/bookworms
 
