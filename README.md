@@ -1,4 +1,3 @@
-# Bookworms
  
 # Team Bookworms
 
@@ -8,6 +7,11 @@ Team Members:
 * Your data sources
 #### Book Rating BY ISBN: https://data.world/divyanshj/users-books-dataset  (file: BX-Book Ratings dataset)
 #### Book Listing by ISBN:https://github.com/zygmuntz/goodbooks-10k  (file: Books.csv)
+
+### Why this was chosen: 
+
+We were interested in learning about how some of our favorite books were rated because we are bookworms. 
+
 
 * An outline of your road map and individual tasks 
 * Ilya Shazeeye and Melissa - Dataset Searching 
@@ -45,12 +49,9 @@ We searched for two datasets that would include a list of books and a dataset of
 ### Loading: 
 We didn’t have any challenges in connecting and loading the datasets to PGAdmin to create an SQL database that could be used to do further manipulation like we found that 456  unique ISBNs received ratings from 9300 books when we merged the tables. Final table was the “books_ratings” table that included user-id and book rating from the ratings csv  and the book title, author and isbn from the book csv. Database is called bookworm_db.
 
-### Why this was chosen: 
 
-We were interested in learning about how some of our favorite books were rated because we are bookworms. 
-Image below 
 
-Image below 
+Image below of a sample query and database
  
 ![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/img_db.png)
 
