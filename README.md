@@ -52,6 +52,6 @@ Image below
 
 Image below 
  
-Format: ![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/img_db.png)
+![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/img_db.png)
 
 
