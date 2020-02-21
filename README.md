@@ -4,7 +4,7 @@
 ## Proposal:  Books & Ratings Review Database
 Team Members: 
 * Ilya Fedotov, Shazeeye, Melissa Wright (Book Worms)
-* Your data sources
+* Our data sources
 #### Book Rating BY ISBN: https://data.world/divyanshj/users-books-dataset  (file: BX-Book Ratings dataset)
 #### Book Listing by ISBN:https://github.com/zygmuntz/goodbooks-10k  (file: Books.csv)
 
