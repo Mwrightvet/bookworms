@@ -52,7 +52,19 @@ We didn’t have any challenges in connecting and loading the datasets to PGAdmi
 
 
 Image below of a sample query and database
- 
+ # Reviewing the Database 
 ![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/img_db.png)
 
+# Reviewing the Total number of books
+
+![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/total_distinct_books.png)
+
+
+ # Reviewing the Total Number of Ratings
+
+![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/ratings_total_image.png)
+
+ # Reviewing the Top Rated Books by count of ratings
+
+![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/top_rated_by_count.png)
 
