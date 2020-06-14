@@ -10,7 +10,7 @@ Team Members:
 
 ### Why this was chosen: 
 
-We were interested in learning about how some of our favorite books were rated because we are bookworms. 
+We were interested in learning about how some of our favorite books were rated because we are bookworms and we wanted to see what some of the best rated books lists were and we also wanted to see if our favorite books were ranked well. 
 
 
 * An outline of your road map and individual tasks 
