@@ -71,7 +71,7 @@ Image below of a sample query and database
 ### Conclusion: 
 Top 10 Rated Books of all time (according to this imbd dataset)
 
-1. The Lost Boy by Dave Pelzer 
+1.  The Lost Boy by Dave Pelzer 
 2.  The Cat in the Hat by Dr. Seus
 3.  Bag of Bones by Stephen King
 4.  Stones from the River by Ursula Hegi
@@ -84,3 +84,4 @@ Top 10 Rated Books of all time (according to this imbd dataset)
 
 ### Summary and Analysis: 
 
+The best selling books are most commonly novels and/or autobiographies. The more real-life and tragedy something is, the more readers it compels indicating that people are drawn to reading things that draw on our heartstrings. 
