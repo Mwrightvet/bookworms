@@ -68,7 +68,18 @@ Image below of a sample query and database
 
 ![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/top_rated_by_count.png)
 
-### Conclusion:
+### Conclusion: 
+Top 10 Rated Books of all time (according to this imbd dataset)
 
+10. The Lost Boy by Dave Pelzer 
+9.  The Cat in the Hat by Dr. Seus
+8.  Bag of Bones by Stephen King
+7.  Stones from the River by Ursula Hegi
+6.  The Color of Water: A Black Man's Trubute to His White Mother
+5.  Bridget Jone's Diary by Helen Fielding 
+4.  The Firm by John Grisham
+3.  A Child Called "It" by Dave Pelzer 
+2.  The No. 1 Ladies' Detective Agency by Alexander McCall Smith 
+1.  The Lost Boy by Dave Pelzer 
 ### Summary and Analysis: 
 
