@@ -8,7 +8,7 @@ Team Members:
 #### Book Rating BY ISBN: https://data.world/divyanshj/users-books-dataset  (file: BX-Book Ratings dataset)
 #### Book Listing by ISBN:https://github.com/zygmuntz/goodbooks-10k  (file: Books.csv)
 
-### Why this was chosen: 
+### Our Reason Why: 
 
 We were interested in learning about how some of our favorite books were rated because we are bookworms and we wanted to see what some of the best rated books lists were and we also wanted to see if our favorite books were ranked well. 
 
@@ -46,7 +46,7 @@ We searched for two datasets that would include a list of books and a dataset of
 - dropping duplicates
 - understanding the data types to be able to transform them
 - changing the encoding language to latin1
-### Loading: 
+### Loading Data: 
 We didn’t have any challenges in connecting and loading the datasets to PGAdmin to create an SQL database that could be used to do further manipulation like we found that 456  unique ISBNs received ratings from 9300 books when we merged the tables. Final table was the “books_ratings” table that included user-id and book rating from the ratings csv  and the book title, author and isbn from the book csv. Database is called bookworm_db.
 
 
@@ -67,4 +67,8 @@ Image below of a sample query and database
  # Reviewing the Top Rated Books by count of ratings
 
 ![Alt Text](https://github.com/Mwrightvet/bookworms/blob/master/top_rated_by_count.png)
+
+### Conclusion:
+
+### Summary and Analysis: 
 
